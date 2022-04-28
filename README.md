@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @phirering
-- 👀 I’m interested in developing useful applications
-- 🌱 I’m currently learning to make them work
-- 💞️ I’m looking to collaborate on many fields to enhance the glbal knowledge
+- 👀 I’m interested in developing useful web-applications
+- 🌱 I’m currently learning to make them work the right way 
+- 💞️ I’m looking to collaborate on many fields to enhance our global knowledge
 - 📫 How to reach me : simply ping me here or there --> <a href="https://twitter.com/pipovitch">x</a> <---
 
 <!---
